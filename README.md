@@ -6,7 +6,7 @@
 * buka menggunakan text editor
 * buka cmd lalu ketikkan
   ```
-  php init
+  > php init
   ```
 * buat database baru (nama terserah anda)
 * import yiiblog.sql kedalam database yang baru anda buat tadi
@@ -42,8 +42,8 @@
 
 * Buka CMD lalu ketikkan syntax dibawah. kita jalankan menggunakan local PHP development. 
   ```
-  cd C:\xampp\htdocs\yiiblog
-  php -S 127.0.0.1:8000 -t frontend/web
+  > cd C:\xampp\htdocs\yiiblog
+  > php -S 127.0.0.1:8000 -t frontend/web
   ```
 * Buka 127.0.0.1:8000 pada browser anda
   
