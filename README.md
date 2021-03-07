@@ -45,6 +45,6 @@
   > cd C:\xampp\htdocs\yiiblog
   > php -S 127.0.0.1:8000 -t frontend/web
   ```
-* Buka 127.0.0.1:8000 pada browser anda
+* Buka ```127.0.0.1:8000``` pada browser anda
   
   
