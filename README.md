@@ -46,5 +46,24 @@
   > php -S 127.0.0.1:8000 -t frontend/web
   ```
 * Buka ```127.0.0.1:8000``` pada browser anda
+
+
+### Screenshot
+
+* Main Screen
+* 
+![Main Screen](https://github.com/bennyfajri/web-berita-yii/blob/main/ScreenShot/1.PNG)
+
+* Detail Berita
+* 
+![Full Berita](https://github.com/bennyfajri/web-berita-yii/blob/main/ScreenShot/2.PNG)
+
+* List Kategori/Berita/user/komentar
+* 
+![list Kategori](https://github.com/bennyfajri/web-berita-yii/blob/main/ScreenShot/3.PNG)
+
+* Menambah Kategori/Berita/user/komentar
+* 
+![add Kategori](https://github.com/bennyfajri/web-berita-yii/blob/main/ScreenShot/4.PNG)
   
   
